@@ -1,6 +1,6 @@
 # Google-maps
 
-![image](https://user-images.githubusercontent.com/59800105/93032634-08bd8c80-f609-11ea-92d4-219d30334910.png)
+![Google maps](https://user-images.githubusercontent.com/59800105/147277927-1cd3fde8-e071-43f7-b1a2-3213edc87f6c.png)
 
 ## Usage
 1. Clone this repo
